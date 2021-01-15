@@ -1,0 +1,11 @@
+.some-text {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: darkolivegreen;
+
+}
+.line {
+    height: 20px;
+    width: auto;
+    background-color: chocolate;
+}
